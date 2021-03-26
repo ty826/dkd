@@ -51,7 +51,7 @@ fork完之后,如图点击<font color="red">Settings</font>
 ![avatar](https://attach.52pojie.cn/forum/202102/05/092214uaii8arlvaqmf04r.png)
 ![avatar](https://attach.52pojie.cn/forum/202102/05/090000hqub17o591v979nn.png)
 
-## 其它说明
+## 其它说明1
  - 设置好之后要点击Actions启用下
  - 可以自己改定时时间
  - 还没想到
